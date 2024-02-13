@@ -97,7 +97,6 @@ Binary/*
 /Content/AssetRegistry.bin
 /Content/AssetRegistry.bin.meta
 /Content/*.uasset.meta
-/Content/*.uasset
 
 # Exclude specific directories within the Content folder
 /Content/StarterContent/
